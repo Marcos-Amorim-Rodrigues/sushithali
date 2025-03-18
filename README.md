@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Este é um projeto feito com [Next.js](https://nextjs.org).
 
-## Getting Started
 
-First, run the development server:
+# Plataforma de Pedidos de Comida Japonesa
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este projeto foi desenvolvido utilizando **Next.js** para criar uma plataforma de pedidos online de comida japonesa para minha esposa, **Thalita**. A plataforma permite que os clientes selecionem as peças desejadas e enviem o pedido diretamente para o WhatsApp dela, facilitando o processo de compra.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tecnologias Utilizadas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js** - Framework React para aplicações web
+- **Shadcn** - Biblioteca de componentes UI
+- **Zustand** - Gerenciamento de estados e carrinho de pedidos
+- **Tailwind CSS** - Estilização ágil e responsiva
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎨 Interfaces e Experiência do Usuário
 
-## Learn More
+As interfaces foram criadas utilizando **Shadcn**, garantindo um design moderno e intuitivo. Além disso, utilizei **Tailwind CSS** para personalizar e aprimorar a experiência do usuário, proporcionando uma navegação fluida e agradável.
 
-To learn more about Next.js, take a look at the following resources:
+## 🛒 Funcionalidades
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Seleção de peças de comida japonesa diretamente na plataforma
+- Gerenciamento do carrinho de pedidos usando **Zustand**
+- Envio do pedido diretamente para o **WhatsApp** da Thalita
+- Design responsivo e otimizado para dispositivos móveis
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Deploy
 
-## Deploy on Vercel
+O projeto está disponível para ser acessado através do link:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[https://sushithali.vercel.app/](https://sushithali.vercel.app/)
+
+
+## 📌 Conclusão
+
+Este projeto foi criado com muito carinho para facilitar os pedidos de comida japonesa de forma rápida e eficiente. Se tiver sugestões ou melhorias, fique à vontade para contribuir! 🍣🎉
+
